@@ -1,10 +1,9 @@
 {
+  "homepage": "https://deepaksingh2002.github.io/muit_web_page/",
   "name": "collage",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
-  "homepage": "https://deepaksingh2002.github.io/muit_web_page/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
