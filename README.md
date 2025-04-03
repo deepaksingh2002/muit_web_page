@@ -1,12 +1,14 @@
-# React + Vite
+# MUIT Web Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **MUIT Web Page** is a cutting-edge web application designed to enhance the online presence of MUIT. Built with **React.js**, this project provides a dynamic and user-friendly interface that caters to modern web standards.
 
-Currently, two official plugins are available:
+## Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Design**: Ensures optimal viewing experiences across various devices and screen sizes.  
+- **Rich User Interface**: Leverages **JavaScript, CSS, and HTML** to create visually appealing and interactive elements.  
+- **Innovative Functionalities**: Introduces new ideas and features to improve user engagement and accessibility.  
+- **Scalable Architecture**: Built with **React.js** to support future enhancements and scalability.  
 
-## Expanding the ESLint configuration
+Explore this project to experience the latest in web technology and design, aimed at delivering a seamless and engaging user experience..
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 **Visit the MUIT Web Page:** [Live Demo](https://deepaksingh2002.github.io/muit_web_page/)
