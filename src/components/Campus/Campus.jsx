@@ -1,5 +1,5 @@
 import React from 'react';
-import './campus.css';
+import './Campus.css';
 import gallery_1 from '../../assets/gallery_1.webp';
 import gallery_2 from '../../assets/gallery_2.webp';
 import gallery_3 from '../../assets/gallery_3.webp';
