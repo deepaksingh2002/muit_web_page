@@ -1,14 +1,70 @@
 # MUIT Web Page
 
-The **MUIT Web Page** is a cutting-edge web application designed to enhance the online presence of MUIT. Built with **React.js**, this project provides a dynamic and user-friendly interface that caters to modern web standards.
+A React + Vite project for the Maharishi University of Information Technology (MUIT) landing page.
 
-## Key Features
+## Live Demo
 
-- **Responsive Design**: Ensures optimal viewing experiences across various devices and screen sizes.  
-- **Rich User Interface**: Leverages **JavaScript, CSS, and HTML** to create visually appealing and interactive elements.  
-- **Innovative Functionalities**: Introduces new ideas and features to improve user engagement and accessibility.  
-- **Scalable Architecture**: Built with **React.js** to support future enhancements and scalability.  
+https://muitwebpage.vercel.app
 
-Explore this project to experience the latest in web technology and design, aimed at delivering a seamless and engaging user experience..
+## Tech Stack
 
-🔗 **Visit the MUIT Web Page:** [Live Demo](https://deepaksingh2002.github.io/muit_web_page/)
+- React
+- Vite
+- CSS
+- React Scroll
+
+## Project Sections
+
+- Navbar
+- Hero
+- Programs
+- About
+- Campus Gallery
+- Testimonials
+- Contact
+- Footer
+- Video Player
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js 18+ (recommended)
+- npm
+
+### Install
+
+```bash
+npm install
+```
+
+### Run in Development
+
+```bash
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+### Preview Production Build
+
+```bash
+npm run preview
+```
+
+## Available Scripts
+
+- `npm run dev` - start local development server
+- `npm run build` - create production build
+- `npm run preview` - preview production build locally
+- `npm run lint` - run ESLint
+
+## Deployment
+
+This project is deployed on Vercel:
+
+https://muitwebpage.vercel.app
